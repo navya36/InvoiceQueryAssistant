@@ -1,0 +1,80 @@
+.signup-container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .registration-form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  
+  .registration-form div {
+    margin-bottom: 10px;
+  }
+  
+  .registration-form label {
+    display: block;
+  }
+  
+  .registration-form input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-top: 4px;
+  }
+  
+  .registration-form button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    cursor: pointer;
+  }
+  
+  .registration-form button:hover {
+    background-color: #0056b3;
+  }
+  .login-container {
+    position: relative;
+  }
+  
+  .history-button-container {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+  }
+  
+  .content-container {
+    display: flex;
+  }
+  
+  .history-container {
+    flex: 1;
+    padding: 10px;
+  }
+  
+  .bill-container {
+    flex: 2;
+    padding: 10px;
+  }
+  .login-container {
+    display: flex;
+  }
+  
+  .left-half {
+    flex: 1;
+    padding: 20px;
+    align-items: left;
+  }
+  
+  .right-half {
+    flex: 1;
+    padding: 20px;
+  }
+  
