@@ -1,1 +1,2 @@
 # InvoiceQueryAssistant
+Developed a Flask-based web application for processing and analyzing invoice images using Google Gemini, with MongoDB integration for storing chat history and user data. Enabled users to upload invoice images, ask related questions, and receive detailed responses, while securely managing user registration and login. Implemented CORS for cross-origin requests and ensured comprehensive error handling for robust performance. 
